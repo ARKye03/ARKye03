@@ -1,0 +1,1 @@
+"Come alimentos nutritivos. Una dieta saludable y equilibrada es la base del bienestar.","Dormir de siete a ocho horas por noche.","Rodéate de gente buena.","Evita la sobredosis de noticias.","Haz ejercicio con regularidad.","Haz algo significativo cada día.","Piensa en cosas buenas para los demás.",System.String[];
