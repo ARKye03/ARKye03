@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      @keyframes typing {
-        from {
-          width: 0;
-        }
-      }
-
-      h1 {
-        animation: typing 5s steps(40) forwards;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 4px solid;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Welcome to my beautiful profile!</h1>
-  </body>
-</html>
-
 # 💫 About Me:
 👋 Hi, I’m @ARKye<br><br>👀 I’m interested in programming and design(Blender Lover <3)!<br><br>🌱 Computer's Science student!<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me... with peace and love, I'm actually here :)<br><br>🤓 I usually program in C# or Rust <3<br><br>😏 If you, the one who is reading this, if you are from Nvidia, hire me, I wont let you down :))))))))))
 
