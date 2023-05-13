@@ -1,6 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+      }
+
+      h1 {
+        animation: typing 5s steps(40) forwards;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 4px solid;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to my beautiful profile!</h1>
+  </body>
+</html>
+
 # 💫 About Me:
 👋 Hi, I’m @ARKye<br><br>👀 I’m interested in programming and design(Blender Lover <3)!<br><br>🌱 Computer's Science student!<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me... with peace and love, I'm actually here :)<br><br>🤓 I usually program in C# or Rust <3<br><br>😏 If you, the one who is reading this, if you are from Nvidia, hire me, I wont let you down :))))))))))
-
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
