@@ -4,7 +4,7 @@
   <samp>
     <em>Welcome to my little World!</em>
     <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Imagine a world built with AIs!;This is so cool;I use Arch btw">
+    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=This is so cool;I use Arch btw">
   </samp>
 </p>
 
