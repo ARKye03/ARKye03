@@ -1,3 +1,13 @@
+<h1 align="center">¡Hola! Soy usuario123</h1>
+
+<p align="center">
+  <samp>
+    <em>Escribe aquí tu mensaje animado</em>
+    <br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Ejemplo+de+mensaje+animado;Este+es+otro+ejemplo+de+mensaje+animado">
+  </samp>
+</p>
+
 # 💫 About Me:
 👋 Hi, I’m @ARKye<br><br>👀 I’m interested in programming and design(Blender Lover <3)!<br><br>🌱 Computer's Science student!<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me... with peace and love, I'm actually here :)<br><br>🤓 I usually program in C# or Rust <3<br><br>😏 If you, the one who is reading this, if you are from Nvidia, hire me, I wont let you down :))))))))))
 
