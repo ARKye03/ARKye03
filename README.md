@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-👀 I’m interested in programming<br><br>🌱 Computer's Science student<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me, <a href="rafa03-dev@proton.me">send e an email</a><br><br>🤓 I have experience programming in C#, web development with Blazor and Sveltets/Reactjs.
+👀 I’m interested in solving problems<br><br>🌱 Computer's Science student<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me, <a href="rafa03-dev@proton.me">send me an email</a><br><br>🤓 I have experience programming in anything you can imagine, web  development, desktop apps, games...
 
 # 💻 Tech Stack
 
