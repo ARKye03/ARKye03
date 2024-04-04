@@ -4,13 +4,21 @@
   <samp>
     <em>Welcome to my little World!</em>
     <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Computer+Science;If+you+can+imagine+it;You+can+program+it;I+use+Arch+btw">
+    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Computer+Science;If+you+can+imagine+it;You+can+program+it;I+use+Arch+and+NixOS+btw">
   </samp>
 </p>
 
 # 💫 About Me
 
-👀 I’m interested in solving problems<br><br>🌱 Computer's Science student<br><br>💞️ I'd like to investigate on AI, software engineering, game development.<br><br>📫 How to reach me, <a href="rafa03-dev@proton.me">send me an email</a><br><br>🤓 I have experience programming in anything you can imagine, web  development, desktop apps, games...
+🔍 Passionate problem solver
+
+📚 Computer Science student
+
+🚀 Interested in AI, Software Engineering, and Game Development
+
+✉️ Contact me at rafa03-dev@proton.me
+
+💻 Experienced in web development, desktop apps, and game programming
 
 # 💻 Tech Stack
 
@@ -23,6 +31,6 @@
  -->
 ---
 
-## 💰 You can help me by Donating
+## Support My Endeavors
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ARKyeV)
+If you find value in my repositories, leaving a star or following me would be greatly appreciated. Additionally, I am open to professional opportunities that align with my skills and interests. If you have any job openings or collaborations in mind, please feel free to reach out.
