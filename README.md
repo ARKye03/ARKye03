@@ -20,26 +20,7 @@
 
 ## 💻 Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=GIMP&logoColor=white)
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05034.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23FFA500.svg?style=flat&logo=Cloudflare&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![BunJS](https://img.shields.io/badge/BunJS-FF69B4?style=flat&logo=BunJS&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=5&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=Rust%2CRust%2Ccdd6f4%3BTypeScript%2CTypeScript%2Ccdd6f4%3Bcsharp%2CCsharp%2Ccdd6f4%3B&line2=AdobePremierePro%2CAdobe+Premiere+Pro%2Ccdd6f4%3BGIMP%2CGIMP%2Ccdd6f4%3B&line3=Linux%2CLinux%2Ccdd6f4%3BArchLinux%2CArchLinux%2Ccdd6f4%3BNixOS%2CNixOS%2Ccdd6f4%3B&line4=Git%2CGit%2Ccdd6f4%3BGitHub%2CGitHub%2Ccdd6f4%3BCloudflare%2CCloudflare%2Ccdd6f4%3B&line5=node.js%2CNodeJS%2Ccdd6f4%3BAngular%2CAngular%2Ccdd6f4%3BReact%2CReact%2Ccdd6f4%3BSvelte%2CSvelte%2Ccdd6f4%3B)
 
 ## 📊 GitHub Stats
 
