@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=falsetheme=catppuccin_mocha)
+![Stats](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)
 
 ---
 
