@@ -1,34 +1,52 @@
-<h1 align="center">👋 Hi, I’m @ARKye</h1>
+# 👋 Hi, I’m @ARKye
 
-<p align="center">
-  <samp>
-    <em>Welcome to my little World!</em>
-    <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Computer+Science;If+you+can+imagine+it;You+can+program+it;I+use+Arch+and+NixOS+btw">
-  </samp>
-</p>
+> _Welcome to my little World!_
 
-# 💫 About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Computer+Science;If+you+can+imagine+it;You+can+program+it;I+use+Arch+and+NixOS+btw)
 
-🔍 Passionate problem solver
+## 💫 About Me
 
-📚 Computer Science student
+🔍 Passionate problem solver.
 
-🚀 Interested in AI, Software Engineering, and Game Development
+📚 Computer Science student.
 
-✉️ Contact me at rafa03-dev@proton.me
+🚀 Interested in AI, Software Engineering, and Game Development.
 
-💻 Experienced in web development, desktop apps, and game programming
+🐧 Linux enthusiast.
 
-# 💻 Tech Stack
+💻 Developer: Web: {Angular, React, Svelte, ...}, Desktop: {.Net, Rust, Tauri, Electron, ...}.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+✉️ Contact me at <rafa03-dev@proton.me>
 
-# 📊 GitHub Stats
+## 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- -->
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=GIMP&logoColor=white)
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05034.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23FFA500.svg?style=flat&logo=Cloudflare&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![BunJS](https://img.shields.io/badge/BunJS-FF69B4?style=flat&logo=BunJS&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=ff00ff&title_color=cba6f7)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+
 ---
 
 ## Support My Endeavors
