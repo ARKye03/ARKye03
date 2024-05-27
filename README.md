@@ -24,9 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&bg_color=1e1e2e&text_color=cdd6f4&icon_color=ff00ff&title_color=cba6f7)
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARKye03&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=ARKye03&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=falsetheme=catppuccin_mocha)
 
 ---
 
