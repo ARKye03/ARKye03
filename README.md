@@ -10,11 +10,11 @@
 
 📚 Computer Science student.
 
-🚀 Interested in AI, Software Engineering, and Game Development.
+💻 Junior Software Engineer.
+
+🚀 Interested in Software Engineering, Web Development, and muchmore.
 
 🐧 Linux enthusiast.
-
-💻 Developer: Web: {Angular, React, Svelte, ...}, Desktop: {.Net, Rust, Tauri, Electron, ...}.
 
 ✉️ Contact me at <rafa03-dev@proton.me>
 
