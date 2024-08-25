@@ -1,12 +1,8 @@
 # 👋 Hi, I’m @ARKye
 
-> _Welcome to my little World!_
+## About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007EC6&lines=Computer+Science;If+you+can+imagine+it;You+can+program+it;I+use+Arch+and+NixOS+btw)
-
-## 💫 About Me
-
-🔍 Passionate problem solver.
+🔍 Passionate about everything I do.
 
 📚 Computer Science student.
 
