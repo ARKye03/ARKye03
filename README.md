@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @ARKye
 
-## About Me
-
 🔍 Passionate about everything I do.
 
 📚 Computer Science student.
