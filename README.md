@@ -22,6 +22,6 @@
 
 ---
 
-## Support My Endeavors
+## Support My Endeavours
 
 If you find value in my repositories, leaving a star or following me would be greatly appreciated. Additionally, I am open to professional opportunities that align with my skills and interests. If you have any job openings or collaborations in mind, please feel free to reach out.
