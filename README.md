@@ -10,6 +10,11 @@
 
 🐧 Linux enthusiast.
 
+🌍 **Languages**:  
+- 🇪🇸 Spanish (Native)  
+- 🇬🇧 English (Advanced)  
+- 🇩🇪 Deutsch (Intermediate)
+
 ✉️ Contact me at <rafa03-dev@proton.me>
 
 ## 💻 Tech Stack
