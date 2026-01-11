@@ -4,7 +4,7 @@
 
 🔍 Passionate about technology and software development.
 
-💻 Junior Software Engineer.
+💻 Junior Software Developer.
 
 🚀 Interested in Software Engineering, Web Development, and muchmore.
 
